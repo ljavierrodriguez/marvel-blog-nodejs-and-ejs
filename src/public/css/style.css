@@ -1,0 +1,9 @@
+body {
+    background-color: green;
+}
+
+img {
+    height: 600px;
+    object-fit: contain;
+    object-position: center center;
+}
